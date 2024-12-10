@@ -20,14 +20,13 @@ This is a minimalist **console-based adaptation** of the classic Flappy Bird gam
 - `curses` (usually pre-installed on Unix-like systems)
 - `sqlite3` (standard with Python)
   
-Windows users may need a `curses`-equivalent (like `windows-curses` via `pip install windows-curses`).
 
 ## Usage
 
 Run the game from your terminal:
 
 ```bash
-python flappy.py
+python flappy_bird.py
 ```
 
 When the intro screen appears, press *Space* to start.  
