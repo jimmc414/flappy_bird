@@ -11,6 +11,9 @@ This is a minimalist **console-based adaptation** of the classic Flappy Bird gam
 - **High Score Persistence**: Uses a SQLite database (`highscores.db`) to track and store your best score.
 - **Restart or Quit**: When the game ends, press **R** to restart immediately or **Q** to quit.
 
+![image](https://github.com/user-attachments/assets/8d2d2f0a-d7f7-4d53-a4bd-979087b918ee)
+
+
 ## Requirements
 
 - Python 3.x
